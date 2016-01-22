@@ -1,4 +1,4 @@
-# mcoverage
+# mcoverage aka Mumps Coverage
 mcoverage is a Mumps Tool that measures the code coverage of a Mumps program.
 
 # About Code Coverage
